@@ -1,0 +1,49 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.vs/
+.vscode/
+*.ncrunch*
+.vs/
+
+# Visual Studio Code files
+.vscode/*
+
+# Rider specific files
+.idea/
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Resharper
+_ReSharper*
+*.DotSettings.user
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+wwwroot/
+publish/
+
+# Config files with secrets
+appsettings*.json
+
+# Dependency directories
+node_modules/
+
+# NuGet Packages
+*.nupkg
